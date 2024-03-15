@@ -1,4 +1,5 @@
 ---
+slug: /
 sidebar_position: 1
 ---
 
@@ -35,8 +36,6 @@ In addition, the following sites offer free, creative commons or public domain c
 ## Importing content into Panels
 
 There are several ways to import your content into Panels, as well as keep it shared & synced between devices.
-
-<!-- FiXME: I don't know how to link this -->
 
 Head over to [Importing content](./category/importing-content) to know more.
 

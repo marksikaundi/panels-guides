@@ -41,11 +41,14 @@ const config = {
       ({
         docs: {
           sidebarPath: "./sidebars.js",
+          routeBasePath: "/",
+
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
             "https://github.com/Produkt/panels-guides/tree/main/packages/create-docusaurus/templates/shared/",
         },
+        blog: false,
         theme: {
           customCss: "./src/css/custom.css",
         },

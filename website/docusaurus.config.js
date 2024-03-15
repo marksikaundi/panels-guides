@@ -23,7 +23,7 @@ const config = {
   organizationName: "Produkt", // Usually your GitHub org/user name.
   projectName: "panels-guides", // Usually your repo name.
   trailingSlash: false,
-  deploymentBranch: "main",
+  deploymentBranch: "gh-pages",
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",

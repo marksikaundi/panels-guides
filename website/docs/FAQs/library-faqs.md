@@ -1,0 +1,21 @@
+---
+sidebar_position: 3
+---
+
+# Content and library
+
+**- How to sync reading progress**
+
+Panels creates "reading sessions" (amount of time reading, starting time, final time, etc.) for each comic. As long as you are logged into your Panels account (you can sign in or create a new one from the app), all your reading sessions will be uploaded and synced across all your devices with the same account.
+
+**- How to sync content**
+
+The 2 main ways to have your content synced between devices are iCloud Drive and OPDS server. <!-- Add links to guides -->
+
+**- Does content lock just lock everything or is there a way to lock only some folders?**
+
+You can long press on a single comic or folder and just lock that content. It will appear blurred and will require a password to open. Also, the folder/file locked in Panels is hidden from the file system. Just in case you lock something and then you can't find it through Files.app. It's there, but not visible.
+
+**// --> Below: Needed?**
+
+- About the OPDS server and HTTPS. HTTPS is an [iOS requirement since iOS 9](https://developer.apple.com/documentation/bundleresources/information_property_list/nsapptransportsecurity). ATS is a measure to protect your data privacy and security.ATS can be disabled for arbitrary domains, but we would have to know your server domain in advance to be able to add it to the allow list.Instead, we've disabled ATS for local network connections and IP addresses.If you use your server IP address instead of a domain name, you'll be able to use a non-secure connection over HTTP.

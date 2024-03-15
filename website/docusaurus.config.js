@@ -13,15 +13,16 @@ const config = {
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
-  url: "https://docs.panels.app",
+  url: "https://guides.panels.app",
   // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
+  // For GitHub pages deployment, it is often '/<projectName>/'. For custom domains leave it as /
   baseUrl: "/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "produkt", // Usually your GitHub org/user name.
-  projectName: "panels", // Usually your repo name.
+  organizationName: "Produkt", // Usually your GitHub org/user name.
+  projectName: "panels-guides", // Usually your repo name.
+  trailingSlash: false,
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",

@@ -23,6 +23,7 @@ We do recommend the following sites to purchase DRM-free comics that you can dow
 - [Bad Ink Studios](https://badinkstudios.com/shop/)
 - [GenSeven Comics](https://gen7comics.com/)
 - [Blue Fox Comics](https://bluefoxcomics.com/collections/digital)
+- [eManga](https://emanga.com)
 
 In addition, the following sites offer free, creative commons or public domain comics:
 
@@ -32,6 +33,7 @@ In addition, the following sites offer free, creative commons or public domain c
 - [NASA Moonikin Comic](https://www.nasa.gov/specials/moonikin-comic/)
 - [NASA - First Woman](https://www.nasa.gov/specials/calliefirst/)
 - [Comic Books - Comic Book Plus](https://comicbookplus.com/?cid=1507)
+- [Digital Comic Museum](https://digitalcomicmuseum.com)
 
 ## Importing content into Panels
 

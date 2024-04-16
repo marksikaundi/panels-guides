@@ -65,6 +65,6 @@ Panels will re-index the library to reflect those changes.
 
 :::tip
 
-You can have [more than one library](./organize-content/mutiple-libraries.md). You can also have your library [synced with iCloud Drive](icloud-drive.md).
+You can have [more than one library](../organize-content/multiple-libraries.md). You can also have your library [synced with iCloud Drive](icloud-drive.md).
 
 :::

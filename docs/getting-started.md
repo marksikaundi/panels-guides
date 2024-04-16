@@ -39,14 +39,14 @@ In addition, the following sites offer free, creative commons or public domain c
 
 There are several ways to import your content into Panels, as well as keep it shared & synced between devices.
 
-Head over to [Importing content](./category/importing-content) to know more.
+Head over to [Importing content](/category/importing-content) to know more.
 
 ## Syncing and organizing your content
 
 Once your content is inside Panels, we offer tools to organize it and customize how the library looks.
 
-Find some more information in [Organize content](./category/organize-content).
+Find some more information in [Organize content](/category/organizing-content).
 
 ## Read your content
 
-In addition to a powerful library, Panels offers an incredible reader with multiple features, from text selection to automatic background color. Visit [Reading content](./category/read-content) to know more.
+In addition to a powerful library, Panels offers an incredible reader with multiple features, from text selection to automatic background color. Visit [Reading content](/category/reading-content) to know more.

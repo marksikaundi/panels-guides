@@ -1,9 +1,20 @@
----
-sidebar_position: 1
----
-
 # Multiple libraries
 
-Talk about the default library "on my XXX".
+A Panels library is just a folder (containing other folders and/or files). You can access your default folder using Files app, navigating to "On my iPhone/iPad" -> Panels (the folder has the Panels app icon on it).
 
-Explain how to add a library from another folder in the system, folder from iCloud Drive (and link to ../import-content/icloud-drive.md) and explain the possibility of having a library in an external disk.
+Panels creates a default library when the app is installed. You will see the this library inside Panels referred to as "On my iPhone/iPad".
+
+## Adding more libraries
+
+From within Panels app, you can add more libraries. Those libraries can be other folders located in your devices, can be [other folders located in iCloud Drive](../import-content/icloud-drive.md), [located in your own server](../import-content/opds.md) or they can even be located in an **external disk connected via cable**.
+
+To add a new library, simply go to the library tab, go back to Content, tap on the "..." icon and select add a new library.
+Locate the root folder and tap Open.
+
+<img src="/img/content-browser-options-library.jpeg" alt="iPhone showing content browser options" style={{width: 400}} />
+
+:::tip
+
+If you want to quickly configure or delete a library, simply swipe left from the list of libraries.
+
+:::

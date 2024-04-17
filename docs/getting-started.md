@@ -30,8 +30,8 @@ In addition, the following sites offer free, creative commons or public domain c
 - [Pepper&Carrot](https://www.peppercarrot.com/)
 - [Overwatch Media](https://overwatch.blizzard.com/en-us/media/stories/)
 - [Recursos multimedia de Overwatch](https://overwatch.blizzard.com/es-es/media/stories/)
-- [NASA Moonikin Comic](https://www.nasa.gov/specials/moonikin-comic/)
-- [NASA - First Woman](https://www.nasa.gov/specials/calliefirst/)
+- [NASA Moonikin Comic](https://www.nasa.gov/moonikin-comic/)
+- [NASA - First Woman](https://www.nasa.gov/calliefirst/)
 - [Comic Books - Comic Book Plus](https://comicbookplus.com/?cid=1507)
 - [Digital Comic Museum](https://digitalcomicmuseum.com)
 

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[604],{3939:e=>{e.exports=JSON.parse('{"title":"Miscelaneous","slug":"/category/miscelaneous","permalink":"/category/miscelaneous","navigation":{"previous":{"title":"Lock zoom","permalink":"/read-content/lock-zoom"},"next":{"title":"Moving to a new device","permalink":"/misc/moving-to-new-device"}}}')}}]);

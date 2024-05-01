@@ -4,11 +4,10 @@ sidebar_position: 2
 
 # Changing app languange
 
-We currently support 11 languages. Only English and Spanish are human translations though. The following 9 languages have been translated using AI:
+We currently support 11 languages. Only English, Spanish and German are human translations though. The following 8 languages have been translated using AI:
 
 - Chinese
 - French
-- German
 - Hindi
 - Italian
 - Japanese

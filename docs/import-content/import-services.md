@@ -36,7 +36,7 @@ Go to Panels, add new service and select SMB Server. Enter the address, username
 
 The way you add an OPDS server to Panels is the same as other services, just tap on "..." -> Connect Service -> OPDS.
 
-We cover OPDS in full detail in [your content in your server](opds.md).
+We cover OPDS in full detail in [your content in your server](/opds/opds.md).
 
 Once you enter your credentials, OPDS will appear both as a new library and as an Import Service.
 

@@ -6,7 +6,7 @@ sidebar_position: 1
 
 [OPDS](https://opds.io) is a standard for content distribution. Most popular comic servers have adopted OPDS to allow third-party apps to access their content. 
 
-If you have a large comic collection or you just don't want your files to take out too much space in your device, you can choose to [have your content stored on iCloud Drive](/import-content/icloud-drive) or have it stored in your own server.
+If you have a large comic collection or you just don't want your files to take out too much space in your device, you can choose to [have your content stored on iCloud Drive](/import-content/icloud-drive.md) or have it stored in your own server.
 
 Panels can connect to server using the OPDS standard. There are multiple server implementations compatible with OPDS. 
 For comics in particular, we do recommend using [Kavita](https://www.kavitareader.com/), [Komga](https://komga.org/) or [Codex](https://github.com/ajslater/codex).

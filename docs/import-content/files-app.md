@@ -34,7 +34,7 @@ Each folder represents a collection, you can drag folders containing other folde
 
 :::tip
 
-If your iOS device free storage is low, consider [iCloud Drive](icloud-drive.md) or [storing content in your server](opds.md).
+If your iOS device free storage is low, consider [iCloud Drive](icloud-drive.md) or [storing content in your server](/opds/opds.md).
 
 :::
 

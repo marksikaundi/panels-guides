@@ -6,7 +6,7 @@ Panels creates a default library when the app is installed. You will see the thi
 
 ## Adding more libraries
 
-From within Panels app, you can add more libraries. Those libraries can be other folders located in your devices, can be [other folders located in iCloud Drive](../import-content/icloud-drive.md), [located in your own server](../import-content/opds.md) or they can even be located in an **external disk connected via cable**.
+From within Panels app, you can add more libraries. Those libraries can be other folders located in your devices, can be [other folders located in iCloud Drive](/import-content/icloud-drive.md), [located in your own server](/opds/opds.md) or they can even be located in an **external disk connected via cable**.
 
 To add a new library, simply go to the library tab, go back to Content, tap on the "..." icon and select add a new library.
 Locate the root folder and tap Open.
